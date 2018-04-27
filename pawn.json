@@ -1,5 +1,5 @@
 {
-    "user": "samp-incognito",
+    "user": "Open-GTO",
     "repo": "samp-gvar-plugin",
     "resources": [
         {
@@ -18,6 +18,6 @@
         }
     ],
     "runtime": {
-        "plugins": ["samp-incognito/samp-gvar-plugin"]
+        "plugins": ["Open-GTO/samp-gvar-plugin"]
     }
 }
